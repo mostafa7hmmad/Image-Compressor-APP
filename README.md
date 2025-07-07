@@ -1,2 +1,2 @@
 # Image-Compressor-APP
-![im](Test/output.jpg)
+![im](Test/output.png)
