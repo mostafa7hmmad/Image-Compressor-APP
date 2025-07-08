@@ -1,4 +1,4 @@
-# 📦 KMeans-ImageCompressor
+# 📦 VisualCompressor
 ![im](Test/output.png)
 
 
